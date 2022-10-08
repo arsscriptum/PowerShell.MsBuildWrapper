@@ -1,0 +1,2 @@
+# PowerShell.MsBuildWrapper
+MsBuildWrapper
