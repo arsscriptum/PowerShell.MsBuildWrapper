@@ -1,0 +1,3 @@
+[submodule "CustomProgressBar"]
+	path = CustomProgressBar
+	url = https://github.com/arsscriptum/PowerShell.CustomProgressBar.git
